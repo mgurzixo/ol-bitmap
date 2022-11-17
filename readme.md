@@ -2,7 +2,7 @@
 
 See corresponding [stackoverflow](https://stackoverflow.com/questions/74450845/openlayers-how-to-create-a-feature-icon-from-a-memory-bitmap) question.
 
-This example uses [Vite](https://vitejs.dev/), OpenLayers and a vite plugin for reading raw data.
+This example uses [Vite](https://vitejs.dev/), OpenLayers and a vite plugin for importing raw data.
 
 To start a development server (available at http://localhost:5173):
 
