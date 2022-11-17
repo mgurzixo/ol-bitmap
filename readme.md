@@ -1,14 +1,12 @@
-# OpenLayers + Vite
+# Create an OpenLayers feature from a memory bitmap obtained from bundling a PNG on the browser.
 
-This example demonstrates how the `ol` package can be used with [Vite](https://vitejs.dev/).
+See corresponding [stackoverflow](https://stackoverflow.com/questions/74450845/openlayers-how-to-create-a-feature-icon-from-a-memory-bitmap) question.
 
-To get started, run the following (requires Node 14+):
+This example uses [Vite](https://vitejs.dev/), OpenLayers and a vite plugin for importing raw data.
 
-    npx create-ol-app my-app --template vite
+To start a development server (available at http://localhost:5173):
 
-Then change into your new `my-app` directory and start a development server (available at http://localhost:5173):
-
-    cd my-app
+    cd ol-bitmap
     npm start
 
 To generate a build ready for production:
