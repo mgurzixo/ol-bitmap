@@ -20,6 +20,5 @@ export default defineConfig({
     build: {
         sourcemap: true,
     },
-    // MG
     plugins: [hexLoader],
 });
