@@ -37,7 +37,7 @@ const upngImageData = new ImageData(
 myContext.putImageData(upngImageData, 0, 0);
 
 // We have now a canvas filled with the PNG image
-// Create the icon, the style, the feature, the layer
+// Create the corresponding icon, the style, the feature, the layer
 // and use it on the map
 
 let myStyle = new Style({
